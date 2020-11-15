@@ -1,2 +1,2 @@
-# salt30
-Website for SALT30 at Cornell
+# Agency and Intentions in Language (AIL)
+Website for AIL1 (based on SALT29-30 simple html pages)
