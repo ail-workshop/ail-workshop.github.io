@@ -1,2 +1,7 @@
 # Agency and Intentions in Language (AIL)
-Website for AIL1 (based on SALT29-30 simple html pages)
+
+This is a general webpage for AIL workshops.
+It contains a list of links for AIL workshops and some contact information.
+
+**Acknowledgement:** most html and css files are adapted from the SALT website created by Dylan Bumford and Sarah Murray.
+
