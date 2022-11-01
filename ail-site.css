@@ -518,7 +518,7 @@ blockquote:after {
     line-height: 1;
     right:0;
     bottom:-0.5em;
-    content: "\201D";
+    content: /*"\201D";*/
 }
 blockquote footer {
     padding: 0 2em 0 0;
